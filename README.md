@@ -3,7 +3,7 @@
 ## Project Overview
 This project analyzes how the trader behavior changes based on market sentiment (Fear vs Greed). The analysis combines historical trading data with the Fear & Greed Index to examine patterns in trading performance, activity, and risk-taking behavior.
 
-# Dataset Description
+## Dataset Description
 
 Two datasets are used:
 
